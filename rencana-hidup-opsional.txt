@@ -3,6 +3,7 @@ RENCANA HIDUP (OPSIONAL)
 - Bernafas
   ~ Nafas otomatis
   ~ Nafas manual
+- Bahagia
 - Tidur
 - Istirahat
 - Makan
