@@ -4,7 +4,10 @@ RENCANA HIDUP (OPSIONAL)
   ~ Nafas otomatis
   ~ Nafas manual
     > Hidup
+    > Mati
+- Bahagia
 - Tidur
   > Sehat
 - Istirahat
+- Rebahan
 - Makan
