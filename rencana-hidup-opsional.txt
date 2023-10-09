@@ -3,7 +3,8 @@ RENCANA HIDUP (OPSIONAL)
 - Bernafas
   ~ Nafas otomatis
   ~ Nafas manual
-- Bahagia
+    > Hidup
 - Tidur
+  > Sehat
 - Istirahat
 - Makan
