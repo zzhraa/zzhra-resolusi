@@ -1,13 +1,11 @@
-RENCANA HIDUP (OPSIONAL)
+NEGARA-NEGARA
 
-- Bernafas
-  ~ Nafas otomatis
-  ~ Nafas manual
-    > Hidup
-    > Mati
-- Bahagia
-- Tidur
-  > Sehat
-- Istirahat
-- Rebahan
-- Makan
+- Indonesia
+  > Jakarta
+- Singapura
+- Korea
+  > Korea Selatan
+    ~ Seoul
+  > Korea Utara
+- Jepang
+- Thailand
