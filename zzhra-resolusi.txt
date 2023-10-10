@@ -1,7 +1,8 @@
-RESOLUSI
-- Konsisten
-- Tidak malas
-- Rajin
-- Kaya raya
-- Ahli semuanya
-- Halllooo
+Jenis Website
+
+- Website pribadi
+- Website portofolio
+- Website e-commerce
+- Website perusahaan
+- Website pendidikan
+- Website instansi
